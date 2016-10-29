@@ -6,7 +6,7 @@ Version: '0.6.3'
 License: "MIT"
 Vendor: google
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: Graceful Gopher
+Cartridge-Vendor: gracefulgopher
 Categories:
   - service
   - web_framework
