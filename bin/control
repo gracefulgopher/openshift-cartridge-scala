@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-PATH=${OPENSHIFT_DATA_DIR}/scala/bin/:${OPENSHIFT_DATA_DIR}/sbt/bin/:/bin/:/usr/bin:$PATH
+PATH=${OPENSHIFT_DATA_DIR}/scala/bin/:/usr/lib/jvm/java-1.8.0/bin/:${OPENSHIFT_DATA_DIR}/sbt/bin/:/bin/:/usr/bin:$PATH
 
 function start {
     cd $OPENSHIFT_REPO_DIR
