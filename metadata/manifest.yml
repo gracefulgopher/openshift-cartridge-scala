@@ -6,7 +6,9 @@ Version: '0.6.3'
 License: "MIT"
 Vendor: google
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: gracefulgopher
+Cartridge-Vendor: scala
+Vendor: gracefulgopher
+Source-Url: https://github.com/gracefulgopher/openshift-cartridge-scala.git
 Categories:
   - service
   - web_framework
